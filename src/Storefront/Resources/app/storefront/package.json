@@ -77,7 +77,7 @@
     "file-loader": "4.1.0",
     "form-association-polyfill": "2.0.2",
     "html-loader-jest": "0.2.1",
-    "jest": "24.8.0",
+    "jest": "29.7.0",
     "jest-junit": "6.3.0",
     "jest-plugin-clock": "2.9.0",
     "mdn-polyfills": "5.18.0",
@@ -91,7 +91,7 @@
     "stylelint-config-sass-guidelines": "6.0.0",
     "webpack-bundle-analyzer": "3.4.1",
     "webpack-cli": "3.3.6",
-    "webpack-dev-server": "3.11.2",
+    "webpack-dev-server": "5.0.4",
     "webpack-merge": "4.2.1",
     "xml2js": "0.4.23"
   }
